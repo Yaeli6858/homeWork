@@ -12,4 +12,7 @@ const func3 = () => {
 
 const func4 = () => {
     console.log("branch ex2");
+
+    console.log("from ex1");
 }
+
