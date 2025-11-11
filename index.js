@@ -7,3 +7,7 @@ const func2 = () => {
 const func3 = () => {
     console.log("From main");
 }
+
+const func4 = () => {
+    console.log("branch ex2");
+}
